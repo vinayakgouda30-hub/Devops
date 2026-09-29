@@ -3,3 +3,7 @@ new file created in dev branch as well as in feature branch
 also added one more line
 
 succesfuly remove the conflict
+
+23
+192
+343
