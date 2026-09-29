@@ -1,1 +1,6 @@
 Git init done
+
+editing it under Dev branch to check conflicts
+
+
+modied the file in feature branch again
